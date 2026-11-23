@@ -96,9 +96,9 @@ PORT=5000
 DB_USER=postgres
 DB_HOST=localhost
 DB_NAME=sweety_db
-DB_PASSWORD=poster
+DB_PASSWORD=your_postgresql_password
 DB_PORT=5432
-JWT_SECRET=0aed23129a4914cc37f18d58b3b9a32fe42771ac5b34c11239d15247cb890c7a318a5fa581c44bb9f4b9b8704ae4024264dce8aa46068e632e34d596174e7ca7
+JWT_SECRET=your_jwt_secret
 ```
 
 Create the PostgreSQL database named `sweety_db` and ensure the required tables are created.
